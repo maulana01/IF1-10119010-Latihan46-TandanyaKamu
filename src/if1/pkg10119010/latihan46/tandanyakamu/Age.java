@@ -31,7 +31,7 @@ public class Age {
     }
     
     public int getYearNow() {
-        return this.yearBirth;
+        return this.yearNow;
     }
     
     public int hitungUmur() {
